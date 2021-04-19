@@ -1,0 +1,89 @@
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+body {
+ 
+  
+}
+.marg-izq {
+  background-color: #ffffff;
+}
+.marg-der {
+  background-color: #ffffff;
+}
+
+/**   INICIO DATOS PERSONALES (COLUMNA AZUL) **/ 
+
+
+.datos-personal {
+  background-color: #494e5f;
+} 
+.datos-personal h1 {
+  color: #87EEF6;
+  font-weight: bold;
+  text-align: center;
+  font-size: 200%;
+}
+.datos-personal hr {
+  height: 5px;
+  width: 80%;
+  background-color: #ffe7d4;
+}
+
+#title {
+  color: #87EEF6;
+  font-weight: bold;
+  text-align: left;
+  font-size: 100%;
+  margin-top: 5vh;
+}
+
+#contenido {
+  margin-top: -5%;
+  color: #fefefa;
+  font-size: 90%;
+  text-align: left;
+}
+
+#foto {
+  border-radius: 50%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20%;
+}
+
+/* FIN DE DATOS PERSONALES - COLUMNA AZUL */
+
+/* INICIO DE COLUMNA DE HISTORIAL */
+
+.datos-cv {
+  background-color: #fefefa;
+}
+#title-col2 {
+  margin-top: 12%;
+  background-color: #335aa1;
+  color: #fefefa;
+  font-weight: bold;
+  font-size: 110%;
+  width: 100%;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 4px ;
+}
+#sub-title-col2 {
+  font-weight: bold;
+  font-size: 110%;
+}
+
+#lugar {
+  margin-top: -2.5%;
+}
+#tareas {
+  font-size: 70%;
+}
+
+#pfinal {
+  font-size: 70%;
+  margin-bottom: 12%;
+}
